@@ -23,7 +23,7 @@
 
 1.  **Clone repository (hoặc tải mã nguồn):**
     ```bash
-    git clone <your-repository-link> # Hoặc giải nén file zip nếu bạn tải về
+    git clone https://github.com/BoPDA1607/AI-CHESS.git # Hoặc giải nén file zip nếu bạn tải về
     cd <tên-thư-mục-dự-án>
     ```
 
