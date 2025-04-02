@@ -39,4 +39,4 @@
 Để bắt đầu trò chơi, chạy file Python chính từ terminal hoặc command prompt:
 
 ```bash
-python <tên_file_python_của_bạn>.py
+python ChessGame.py
